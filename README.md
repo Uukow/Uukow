@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Uukow</h1>
-<h3 align="center">I'm a Software developer i am from somalia</h3>
+<h3 align="center">I'm a Web developer i am from somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uukow&label=Profile%20views&color=0e75b6&style=flat" alt="uukow" /> </p>
 
