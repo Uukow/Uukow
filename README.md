@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uukow&theme=discord" alt="uukow" /></a> </p>
 
-- 🔭 I’m currently working on **Rent House Management System**
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **HTML, CSS, JS, REACT, NODE.js, PHP, MYSQL, GRAPHIC DESIGN**
+- 🔭 I’m currently working on **TacliinHub Mobile and Web Application**
+- 🌱 I’m currently learning **New Things**
+- 💬 Ask me about **HTML, CSS, JS, REACT, NODE.js, PHP, MYSQL, Flutter, Digital Marketing, GRAPHIC DESIGN**
 - 📫 How to reach me **abdulkadiruukow@gmail.com**
 - 👨‍💻 All of my projects are available at **https://uukow.github.io/**
 - 📝 I regularly write articles on **https://uukow.github.io/**
