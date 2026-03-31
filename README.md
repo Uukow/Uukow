@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at **https://uukow.github.io/**
 - 📝 I regularly write articles on **https://uukow.github.io/**
 - 📄 Know about my experiences **https://uukow.github.io/**
-- ⚡ Fun fact **I think am am so funny Web Developer**
+- ⚡ Fun fact **I think I am so funny Web Developer**
 
 <div> <a href="https://twitter.com/Abdulkadiruukow" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/uukow" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
