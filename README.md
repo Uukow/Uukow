@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Abdulkadir+Uukow;Full-stack+%26+mobile+engineering;Product-focused+delivery" alt="Animated headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Abdulkadir+Uukow;Full-stack+%26+mobile+developer;Product-focused+delivery;Content+writter;Story+writting;Graphic+Designer;Video+Editor" alt="Animated headline" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=uukow&label=views&color=58a6ff&style=flat)](https://github.com/uukow)
 [![Site](https://img.shields.io/badge/site-uukow.github.io-58A6FF?style=flat&logo=github&logoColor=white)](https://uukow.github.io/)
