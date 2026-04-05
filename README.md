@@ -61,13 +61,13 @@ Adobe XD · Illustrator · Photoshop · SQL Server
 ## GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uukow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uukow&theme=tokyonight" alt="GitHub stats summary" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uukow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uukow&theme=tokyonight" alt="Repositories per language" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=uukow&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img height="185" src="https://streak-stats.demolab.com/?user=uukow&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
 </p>
 
 <details>
@@ -77,11 +77,9 @@ Adobe XD · Illustrator · Photoshop · SQL Server
 
 <p align="center">
   <a href="https://github.com/uukow">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uukow&theme=github_dark" height="180" alt="Stats card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uukow&theme=github_dark" height="180" alt="Most commit language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uukow&theme=github_dark" height="180" alt="Repos per language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uukow&theme=github_dark&utcOffset=3" height="180" alt="Productive time" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uukow&theme=github_dark" height="180" alt="Profile details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uukow&theme=tokyonight" height="180" alt="Most commit language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uukow&theme=tokyonight&utcOffset=3" height="180" alt="Productive time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uukow&theme=tokyonight" height="180" alt="Profile details" />
   </a>
 </p>
 
